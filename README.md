@@ -1,6 +1,9 @@
 # VERITY
 MicroServiços de Lançamento
-
+# Documentos
+# EF_0001 - Lancamento Debito x Credito.pdf - Documento ref. ao Projeto
+# script_SQL.sql - Script de banco e tabela
+# web.rar - pasta compactada web onde consta todos os arquivos necessários para o sistema 
 
 # ////////////////////////////////////////////////////////////////////
 # Demonstração de Micro Servicos ( Lançamento e Relatório )
