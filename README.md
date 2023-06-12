@@ -14,7 +14,7 @@ MicroServiços de Lançamento
 # Script criação do banco / Tabela ScriptSQL.sql  ( Atenção para os arquivos MDfs e LDFs )
 # Criação do Banco e Tabela LCT0001 
 #--------------------------------------------------------------------------------------------------
-# Descompactar WEB.rar para a pasta WEB e criar um site ou um Pasta Virtual apontado para a pasta WEB com Pool 4.0 Integrado
+# Descompactar WEB.rar para a pasta WEB e criar um site ou um Pasta Virtual no IIS apontado para a pasta WEB com Pool 4.0 Integrado
 # Alterar seguintes dados em WEB\web.config
 #     
 #    Colocar abaixo o caminho do banco SQL
